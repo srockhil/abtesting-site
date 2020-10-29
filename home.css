@@ -45,7 +45,7 @@ body{
 
 
 .small-font {
-    font-size: calc(18px + .5vw);
+    font-size: calc(20px + .2vw);
 }
 
 .medium-font {
