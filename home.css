@@ -1,0 +1,72 @@
+.bg {
+    /* The image used */
+    background-image: url("images/cactus-background.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.header-text {
+    font-size: calc(25px + 2.3vw);
+    padding: 20px;
+    color: darkgreen;
+    background-color: rgba(255, 254, 254, 0.41);
+    border-radius: 15px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+
+}
+
+.section-header {
+    font-size: calc(18px + 1.7vw);
+    padding: 20px;
+    color: #729dc6;
+    margin-bottom: 5px;
+    letter-spacing: 2px;
+
+}
+
+.header-row{
+    height: 40vh;
+    align-items: center;
+}
+
+body{
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+}
+
+
+.small-font {
+    font-size: calc(18px + .5vw);
+}
+
+.medium-font {
+    font-size: calc(24px + .5vw);
+    color: rgba(7, 7, 7, 0.89);
+    margin-bottom: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.border-div {
+    border-radius: 10px;
+    border: solid #dae9f4 4px ;
+    padding: 15px;
+}
+
+.img-fluid-1 {
+    width: 80%;
+    height: auto;
+}
+.img-fluid-2 {
+    width: 60%;
+    height: auto;
+}
